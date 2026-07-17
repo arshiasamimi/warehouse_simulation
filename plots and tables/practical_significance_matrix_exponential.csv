@@ -1,0 +1,5 @@
+comparison,fulfillment_rate,exception_rate,avg_waiting_time,avg_picker_utilization,peak_queue_length,pct_time_queue_full,pct_time_under_pressure,avg_fulfillment_time,exception_rate_low,exception_rate_medium,exception_rate_high
+Combined vs. Base,combined better by 8.2pp,combined better by 8.2pp,-,base better by 5.1pp,-,-,combined better by 16.9pp,-,-,combined better by 10.6pp,combined better by 31.3pp
+Combined vs. Capacity-alone,-,-,-,-,-,-,-,-,-,-,combined better by 16.6pp
+Combined vs. Priority-alone,combined better by 6.2pp,combined better by 6.2pp,-,-,-,-,combined better by 15.0pp,-,combined better by 8.2pp,-,combined better by 5.1pp
+Priority vs. Base,-,-,-,-,-,-,-,-,base better by 10.0pp,priority better by 6.0pp,priority better by 26.2pp
