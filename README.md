@@ -1,4 +1,4 @@
-# Warehouse Order Fulfillment Simulation (Alternative Simulation Bonus Project)
+# Warehouse Order Fulfillment Simulation
 
 Discrete-event simulation of an e-commerce warehouse order-fulfillment center,
 submitted under the Alternative Simulation Bonus Opportunity for the Computer
