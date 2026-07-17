@@ -8,11 +8,6 @@ items from the floor; pickers are a limited resource, a finite staging area abso
 overflow, and orders can end in one of three exceptional outcomes: backorder,
 cancellation, or an unresolved picking error.
 
-This project is intentionally structured as a genuinely different process and
-decision problem from the required hospital bed-allocation simulation (see
-Section 2 of `warehouse_report.pdf` for the full requirement-by-requirement
-mapping), while matching its statistical and technical rigor.
-
 ## File Structure
 
 ```
